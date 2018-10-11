@@ -118,3 +118,14 @@
 .recipe_btn:hover {
     background-color: rgb(13, 167, 123);;
 }
+
+
+/* footer */
+
+footer p a {
+    color: var(--color-first);
+}
+
+footer p a:hover {
+    color: rgb(6, 102, 75);
+}
