@@ -16,7 +16,6 @@
 
 .index-banner {
     background-image: url('/en/images/banner_agualima.jpg');
-    /* background-color: var(--color-first); */
     height: 450px;
     color: var(--color-banner);
 }
@@ -25,7 +24,7 @@
 /* know_us */
 
 .photo {
-    background-image: url('/en/images/know_us/carousel/somos_agualima.jpg');
+    background-image: url('/en/images/know_us/carousel/somosAgualima.jpg');
     height: 400px;
     background-position: center;
     background-size: cover;
