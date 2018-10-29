@@ -36,6 +36,10 @@
     color: var(--color-banner);
 }
 
+.text_color {
+    color: #3a3a3a;
+}
+
 /* products */
 
 .banner_products {
@@ -117,6 +121,12 @@
 .recipe_btn:hover {
     background-color: rgb(13, 167, 123);;
 }
+
+.recipe_btn_white {
+    background-color: var(--color-bg);
+    color: var(--color-first);
+}
+
 
 /* footer */
 
